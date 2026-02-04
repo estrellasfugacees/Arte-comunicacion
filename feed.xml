@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y comunicacion</title>
+    <link href="https://estrellasfugacees.github.io/Arte-comunicacion/feed.xml" rel="self" />
+    <link href="https://estrellasfugacees.github.io/Arte-comunicacion" />
+    <updated>2026-02-03T19:53:42-05:00</updated>
+    <author>
+        <name>Angie Teresa Pepinosa</name>
+    </author>
+    <id>https://estrellasfugacees.github.io/Arte-comunicacion</id>
+
+    <entry>
+        <title>Podcast</title>
+        <author>
+            <name>Angie Teresa Pepinosa</name>
+        </author>
+        <link href="https://estrellasfugacees.github.io/Arte-comunicacion/mi-composicion-visual.html"/>
+        <id>https://estrellasfugacees.github.io/Arte-comunicacion/mi-composicion-visual.html</id>
+            <category term="Podcast"/>
+
+        <updated>2026-02-03T19:51:27-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

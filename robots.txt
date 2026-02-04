@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://estrellasfugacees.github.io/Arte-comunicacion/sitemap.xml

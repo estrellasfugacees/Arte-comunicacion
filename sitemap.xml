@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://estrellasfugacees.github.io/Arte-comunicacion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://estrellasfugacees.github.io/Arte-comunicacion/</loc>
+</url>
+<url>
+<loc>https://estrellasfugacees.github.io/Arte-comunicacion/mi-composicion-visual.html</loc>
+<lastmod>2026-02-03T19:53:42-05:00</lastmod>
+</url>
+<url>
+<loc>https://estrellasfugacees.github.io/Arte-comunicacion/sobre-mi-2.html</loc>
+<lastmod>2026-02-03T19:58:21-05:00</lastmod>
+<image:image>
+<image:loc>https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/3/E66E6118-3F92-4EEE-B349-19107ED53409_L0_001-12_8_2024-5_52_12-a.m.-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
