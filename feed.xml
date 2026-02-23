@@ -3,23 +3,36 @@
     <title>Arte y comunicacion</title>
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion/feed.xml" rel="self" />
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion" />
-    <updated>2026-02-03T19:53:42-05:00</updated>
+    <updated>2026-02-23T16:37:13-05:00</updated>
     <author>
         <name>Angie Teresa Pepinosa</name>
     </author>
     <id>https://estrellasfugacees.github.io/Arte-comunicacion</id>
 
     <entry>
-        <title>Podcast</title>
+        <title>Composición visual</title>
         <author>
             <name>Angie Teresa Pepinosa</name>
         </author>
-        <link href="https://estrellasfugacees.github.io/Arte-comunicacion/mi-composicion-visual.html"/>
-        <id>https://estrellasfugacees.github.io/Arte-comunicacion/mi-composicion-visual.html</id>
-            <category term="Podcast"/>
+        <link href="https://estrellasfugacees.github.io/Arte-comunicacion/composicion-visual.html"/>
+        <id>https://estrellasfugacees.github.io/Arte-comunicacion/composicion-visual.html</id>
+            <category term="Composicion Visual"/>
 
-        <updated>2026-02-03T19:51:27-05:00</updated>
-            <summary></summary>
-        <content></content>
+        <updated>2026-02-23T16:36:37-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Reminicencia : Hecho de venir a la memoria lo que está lejano en el tiempo o casi olvidado. Por medio de los recuerdos puedes volver a lo lejano, a un tiempo que alguna vez pareció eterno; sin embargo, los míos se han vuelto cada vez&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/4/FONDO.svg" alt="" width="794" height="1123"></figure>
+<p> </p>
+<blockquote>
+<p>Reminicencia : Hecho de venir a la memoria lo que está lejano en el tiempo o casi olvidado.</p>
+</blockquote>
+<p>Por medio de los recuerdos puedes volver a lo lejano, a un tiempo que alguna vez pareció eterno; sin embargo, los míos se han vuelto cada vez más líquidos. Son difusos, casi transparentes, y por más que intente retenerlos, se escapan. En esta composición quise retratar la fragilidad de mi memoria; por esto, los elementos son borrosos y mínimos, haciendo alusión a lo que no puedo sostener.</p>
+            ]]>
+        </content>
     </entry>
 </feed>
