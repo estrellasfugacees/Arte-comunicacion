@@ -3,12 +3,39 @@
     <title>Arte y comunicacion</title>
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion/feed.xml" rel="self" />
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion" />
-    <updated>2026-02-23T16:37:13-05:00</updated>
+    <updated>2026-03-16T18:38:47-05:00</updated>
     <author>
         <name>Angie Teresa Pepinosa</name>
     </author>
     <id>https://estrellasfugacees.github.io/Arte-comunicacion</id>
 
+    <entry>
+        <title>Composición Sonora</title>
+        <author>
+            <name>Angie Teresa Pepinosa</name>
+        </author>
+        <link href="https://estrellasfugacees.github.io/Arte-comunicacion/composicion-sonora-2.html"/>
+        <id>https://estrellasfugacees.github.io/Arte-comunicacion/composicion-sonora-2.html</id>
+        <media:content url="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/6/IMG_0027.jpg" medium="image" />
+            <category term="Sonido"/>
+
+        <updated>2026-03-16T18:22:05-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/6/IMG_0027.jpg" alt="" />
+                    Esta es mi composición sonora inspirada en la necesidad de conectar con lo que germina, restaurar lo colectivo y mirar la feminidad desde el origen y lo natural.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/6/IMG_0027.jpg" class="type:primaryImage" alt="" /></p>
+                <p><em><span style="color: #bfedd2;">Esta es mi composición sonora inspirada en la necesidad de conectar con lo que germina, restaurar lo colectivo y mirar la feminidad desde el origen y lo natural.</span></em></p>
+<p><audio loading="lazy" controls="controls" src="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/6/germinar.wav">
+     </audio></p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición visual</title>
         <author>

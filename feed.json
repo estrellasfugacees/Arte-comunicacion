@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://estrellasfugacees.github.io/Arte-comunicacion/composicion-sonora-2.html",
+            "url": "https://estrellasfugacees.github.io/Arte-comunicacion/composicion-sonora-2.html",
+            "title": "Composición Sonora",
+            "summary": "Esta es mi composición sonora inspirada en la necesidad de conectar con lo que germina, restaurar lo colectivo y mirar la feminidad desde el origen y lo natural.",
+            "content_html": "<p><em><span style=\"color: #bfedd2;\">Esta es mi composición sonora inspirada en la necesidad de conectar con lo que germina, restaurar lo colectivo y mirar la feminidad desde el origen y lo natural.</span></em></p>\n<p><audio loading=\"lazy\" controls=\"controls\" src=\"https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/6/germinar.wav\">\n     </audio></p>\n<p> </p>",
+            "image": "https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/6/IMG_0027.jpg",
+            "author": {
+                "name": "Angie Teresa Pepinosa"
+            },
+            "tags": [
+                   "Sonido"
+            ],
+            "date_published": "2026-03-16T18:22:05-05:00",
+            "date_modified": "2026-03-16T18:38:47-05:00"
+        },
+        {
             "id": "https://estrellasfugacees.github.io/Arte-comunicacion/composicion-visual.html",
             "url": "https://estrellasfugacees.github.io/Arte-comunicacion/composicion-visual.html",
             "title": "Composición visual",
