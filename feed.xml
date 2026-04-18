@@ -3,12 +3,38 @@
     <title>Arte y comunicacion</title>
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion/feed.xml" rel="self" />
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion" />
-    <updated>2026-03-16T18:40:19-05:00</updated>
+    <updated>2026-04-18T17:23:29-05:00</updated>
     <author>
         <name>Angie Teresa Pepinosa</name>
     </author>
     <id>https://estrellasfugacees.github.io/Arte-comunicacion</id>
 
+    <entry>
+        <title>Remembranza</title>
+        <author>
+            <name>Angie Teresa Pepinosa</name>
+        </author>
+        <link href="https://estrellasfugacees.github.io/Arte-comunicacion/remembranza.html"/>
+        <id>https://estrellasfugacees.github.io/Arte-comunicacion/remembranza.html</id>
+        <media:content url="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/7/imagen-2.JPG" medium="image" />
+            <category term="Video"/>
+
+        <updated>2026-04-18T17:23:29-05:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/7/imagen-2.JPG" alt="" />
+                    Me interesa mucho la memoria y el acto de recordar es por esto que he decidido intentar retratar mis recuerdos a través de fotos familiares.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/7/imagen-2.JPG" class="type:primaryImage" alt="" /></p>
+                <p>Me interesa mucho la memoria y el acto de recordar es por esto que he decidido intentar retratar mis recuerdos a través de fotos familiares.</p>
+<div class="post__iframe"><iframe loading="lazy" width="560" height="315" src="https://www.youtube.com/embed/zZj0UaavG8M?si=Z0foQZIJE5IuDDEV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen="allowfullscreen"></iframe></div>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Composición Sonora</title>
         <author>

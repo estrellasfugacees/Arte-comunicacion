@@ -10,6 +10,22 @@
     },
     "items": [
         {
+            "id": "https://estrellasfugacees.github.io/Arte-comunicacion/remembranza.html",
+            "url": "https://estrellasfugacees.github.io/Arte-comunicacion/remembranza.html",
+            "title": "Remembranza",
+            "summary": "Me interesa mucho la memoria y el acto de recordar es por esto que he decidido intentar retratar mis recuerdos a través de fotos familiares.",
+            "content_html": "<p>Me interesa mucho la memoria y el acto de recordar es por esto que he decidido intentar retratar mis recuerdos a través de fotos familiares.</p>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"560\" height=\"315\" src=\"https://www.youtube.com/embed/zZj0UaavG8M?si=Z0foQZIJE5IuDDEV\" title=\"YouTube video player\" frameborder=\"0\" allow=\"accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share\" referrerpolicy=\"strict-origin-when-cross-origin\" allowfullscreen=\"allowfullscreen\"></iframe></div>\n<p> </p>",
+            "image": "https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/7/imagen-2.JPG",
+            "author": {
+                "name": "Angie Teresa Pepinosa"
+            },
+            "tags": [
+                   "Video"
+            ],
+            "date_published": "2026-04-18T17:23:29-05:00",
+            "date_modified": "2026-04-18T17:23:29-05:00"
+        },
+        {
             "id": "https://estrellasfugacees.github.io/Arte-comunicacion/composicion-sonora-2.html",
             "url": "https://estrellasfugacees.github.io/Arte-comunicacion/composicion-sonora-2.html",
             "title": "Composición Sonora",
