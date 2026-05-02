@@ -13,7 +13,7 @@
             "id": "https://estrellasfugacees.github.io/Arte-comunicacion/bogota-a-traves-de-la-mirada-de-hebe-uhart.html",
             "url": "https://estrellasfugacees.github.io/Arte-comunicacion/bogota-a-traves-de-la-mirada-de-hebe-uhart.html",
             "title": "Bogotá a través de la mirada de Hebe Uhart  ",
-            "content_html": "<p><object data=\"file:///C:/Users/jimmy pepinosa/Downloads/textoo.pdf\" type=\"application/pdf\" width=\"100%\" height=\"400px\">\n  </object></p>\n<p><object data=\"/media/files/textoo.pdf\" type=\"application/pdf\" width=\"100%\" height=\"400px\">\n  </object></p>",
+            "content_html": "<blockquote>\n<p><object data=\"https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/8/textoo.pdf\" type=\"application/pdf\" width=\"100%\" height=\"400px\">\n  </object></p>\n</blockquote>",
             "image": "https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/8/IMG_0009.jpg",
             "author": {
                 "name": "Angie Teresa Pepinosa"
@@ -21,7 +21,7 @@
             "tags": [
             ],
             "date_published": "2026-05-02T18:21:48-05:00",
-            "date_modified": "2026-05-02T18:24:53-05:00"
+            "date_modified": "2026-05-02T18:28:12-05:00"
         },
         {
             "id": "https://estrellasfugacees.github.io/Arte-comunicacion/remembranza.html",
