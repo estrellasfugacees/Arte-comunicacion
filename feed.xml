@@ -3,7 +3,7 @@
     <title>Arte y comunicacion</title>
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion/feed.xml" rel="self" />
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion" />
-    <updated>2026-05-02T18:21:48-05:00</updated>
+    <updated>2026-05-02T18:24:53-05:00</updated>
     <author>
         <name>Angie Teresa Pepinosa</name>
     </author>
@@ -24,6 +24,8 @@
             <![CDATA[
                     <p><img src="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/8/IMG_0009.jpg" class="type:primaryImage" alt="" /></p>
                 <p><object data="file:///C:/Users/jimmy pepinosa/Downloads/textoo.pdf" type="application/pdf" width="100%" height="400px">
+  </object></p>
+<p><object data="/media/files/textoo.pdf" type="application/pdf" width="100%" height="400px">
   </object></p>
             ]]>
         </content>
