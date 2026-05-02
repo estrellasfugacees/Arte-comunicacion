@@ -3,12 +3,31 @@
     <title>Arte y comunicacion</title>
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion/feed.xml" rel="self" />
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion" />
-    <updated>2026-04-18T17:24:33-05:00</updated>
+    <updated>2026-05-02T18:21:48-05:00</updated>
     <author>
         <name>Angie Teresa Pepinosa</name>
     </author>
     <id>https://estrellasfugacees.github.io/Arte-comunicacion</id>
 
+    <entry>
+        <title>Bogotá a través de la mirada de Hebe Uhart  </title>
+        <author>
+            <name>Angie Teresa Pepinosa</name>
+        </author>
+        <link href="https://estrellasfugacees.github.io/Arte-comunicacion/bogota-a-traves-de-la-mirada-de-hebe-uhart.html"/>
+        <id>https://estrellasfugacees.github.io/Arte-comunicacion/bogota-a-traves-de-la-mirada-de-hebe-uhart.html</id>
+        <media:content url="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/8/IMG_0009.jpg" medium="image" />
+
+        <updated>2026-05-02T18:21:48-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/8/IMG_0009.jpg" class="type:primaryImage" alt="" /></p>
+                <p><object data="file:///C:/Users/jimmy pepinosa/Downloads/textoo.pdf" type="application/pdf" width="100%" height="400px">
+  </object></p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Remembranza</title>
         <author>
@@ -18,6 +37,7 @@
         <id>https://estrellasfugacees.github.io/Arte-comunicacion/remembranza.html</id>
         <media:content url="https://estrellasfugacees.github.io/Arte-comunicacion/media/posts/7/imagen-2.JPG" medium="image" />
             <category term="Video"/>
+            <category term="Iniciativas autónomas"/>
 
         <updated>2026-04-18T17:23:29-05:00</updated>
             <summary type="html">
