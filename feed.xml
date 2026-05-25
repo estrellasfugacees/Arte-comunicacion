@@ -3,7 +3,7 @@
     <title>Arte y comunicacion</title>
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion/feed.xml" rel="self" />
     <link href="https://estrellasfugacees.github.io/Arte-comunicacion" />
-    <updated>2026-05-25T16:17:31-05:00</updated>
+    <updated>2026-05-25T16:20:44-05:00</updated>
     <author>
         <name>Angie Teresa Pepinosa</name>
     </author>
@@ -27,8 +27,7 @@
         <content type="html">
             <![CDATA[
                 <p> </p>
-<div style="position: relative; padding-bottom: 177.78%; height: 0; overflow: hidden; max-width: 100%;"><div class="post__iframe"><iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/7jpPNOuGgFw" title="YouTube Shorts video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen">
-  </iframe></div></div>
+<div class="video-wrapper"><div class="post__iframe"><iframe loading="lazy" width="315" height="560" src="https://www.youtube.com/embed/7jpPNOuGgFw" allowfullscreen="allowfullscreen"></iframe></div></div>
 <p>Más que una parodia, quise hacer una invitación a dejar de crear pensando únicamente en lo que más se vende o en lo que más vistas puede generar. Vivimos rodeados de tendencias y de un imaginario saturado que muchas veces nos empuja a copiar para encajar. Pero la verdadera originalidad nace cuando construimos nuestro propio mundo, nuestra propia visión y una forma auténtica de mirar las cosas.</p>
             ]]>
         </content>
@@ -50,8 +49,7 @@
             </summary>
         <content type="html">
             <![CDATA[
-                <div style="position: relative; padding-bottom: 177.78%; height: 0; overflow: hidden; max-width: 100%;"><div class="post__iframe"><iframe loading="lazy" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" src="https://www.youtube.com/embed/NfXOVJKtMm8" title="YouTube Shorts video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen="allowfullscreen">
-  </iframe></div></div>
+                <div class="video-wrapper"><div class="post__iframe"><iframe loading="lazy" width="315" height="560" src="https://www.youtube.com/embed/NfXOVJKtMm8" allowfullscreen="allowfullscreen"></iframe></div></div>
 <div> </div>
 <div>Este video nace desde la incertidumbre tan cotidiana que sienten los artistas. Quise exponer ese miedo silencioso de crear sin saber si algún día será suficiente, y aun así seguir haciéndolo por amor al arte. </div>
             ]]>
